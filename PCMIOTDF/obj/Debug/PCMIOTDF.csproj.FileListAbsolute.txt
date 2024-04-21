@@ -1,0 +1,16 @@
+D:\Users\pcu\source\repos\PCMIOTDF\bin\Debug\PCMIOTDF.exe.config
+D:\Users\pcu\source\repos\PCMIOTDF\bin\Debug\PCMIOTDF.exe
+D:\Users\pcu\source\repos\PCMIOTDF\bin\Debug\PCMIOTDF.pdb
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.csprojAssemblyReference.cache
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.Form1.resources
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.Properties.Resources.resources
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.csproj.GenerateResource.cache
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.csproj.CoreCompileInputs.cache
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.exe
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.pdb
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.wifiConnect.resources
+D:\Users\pcu\source\repos\PCMIOTDF\bin\Debug\System.Web.Http.dll
+D:\Users\pcu\source\repos\PCMIOTDF\bin\Debug\System.Net.Http.Formatting.dll
+D:\Users\pcu\source\repos\PCMIOTDF\obj\Debug\PCMIOTDF.csproj.CopyComplete
+D:\Users\pcu\source\repos\PCMIOTDF\bin\Debug\Newtonsoft.Json.dll
+D:\Users\pcu\source\repos\PCMIOTDF\bin\Debug\Newtonsoft.Json.xml
